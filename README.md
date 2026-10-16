@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yana 👋
 
-<!--
-**semper-infieri/semper-infieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend engineer on my way to bioengineering.**
+Starting with the computational side: biology, data and code.
+I'm learning bioengineering in public — one week, one note at a time.
 
-Here are some ideas to get you started:
+*semper in fieri — always in the making.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## This year (autumn 2026 → 2027)
+- 🧬 **Biology:** Khan Academy (high school → AP / college level), molecular biology lectures, *Molecular Biology of the Cell*
+- 🐧 **Tools:** Linux command line, Python for data analysis
+- 🧮 **Math:** linear algebra (3Blue1Brown), probability (Stat 110)
+- 🧩 **Practice:** Rosalind problems (computational biology basics)
+- 🔬 **First project (December):** comparing mitochondrial genomes of five species — length, GC content, gene order, genetic code
+- 🤝 **Open source:** working towards my first PR in a bio-visualization project
+
+## Where to follow along
+📓 [Learning log](https://semper-infieri.github.io/learning-log/) — weekly notes and deep dives
+
+## Background
+Vue/Nuxt · TypeScript · data visualization · building interfaces people actually enjoy using
